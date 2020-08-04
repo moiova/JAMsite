@@ -2,10 +2,10 @@
 title: "First Page"
 date: 2019-11-06T17:00:08+02:00
 draft: true
-author: Ray Viljoen
+author: Ioan Molnar
 ---
 
-# First JAMSite Page
+# First JAMsite Page
 
 Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec ullamcorper nulla non metus auctor fringilla. Aenean lacinia bibendum nulla sed consectetur. Aenean lacinia bibendum nulla sed consectetur. Vestibulum id ligula porta felis euismod semper.
 
