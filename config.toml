@@ -2,7 +2,7 @@ baseURL = "https://moiova.github.io/JAMsite/"
 languageCode = "en-us"
 title = "JAMsite"
 theme = "tale"
-copyright = "Copyright 2019 Stackacademy.tv"
+copyright = "Copyright 2020 moiova.tv"
 disableKinds = ["section"]
 
 [outputs]
